@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey 👋  Welcome to the Home of Best DevOps, MLOps & Platform Engineering Resources?</h1>
 
 ---
 
